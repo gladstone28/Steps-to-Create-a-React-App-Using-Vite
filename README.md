@@ -99,10 +99,10 @@ npm run preview
 This guide should get you up and running with a React app using Vite! Let me know if you need more detailed information on any specific part.
 
 
-Prompt: Can you tell me the files to delete to create my own app from the template?
+**Prompt: Can you tell me the files to delete to create my own app from the template?**
 
 
-Response: When you start a new React app using Vite, the template comes with some default files that are meant to help you get started. However, if you want to clean up the project and start fresh to create your own app, you can delete or modify certain files. Here’s a guide on what to delete or modify:
+**Response: When you start a new React app using Vite, the template comes with some default files that are meant to help you get started. However, if you want to clean up the project and start fresh to create your own app, you can delete or modify certain files. Here’s a guide on what to delete or modify:**
 
 Files to Delete or Modify
 1. src/App.jsx
